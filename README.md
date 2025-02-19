@@ -14,3 +14,4 @@ This is todo List. Hold me acountable!
 
 List of hours put in from all time:
 Feb 6- 1hr
+Feb 18- 1hr
