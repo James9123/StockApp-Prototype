@@ -15,3 +15,5 @@ This is todo List. Hold me acountable!
 List of hours put in from all time:
 Feb 6- 1hr
 Feb 18- 1.5hr
+Mar 9- 1hr (figuring how to get visual studio on mac)
+Mar 10- planing for 4hrs
